@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2446
     wikipedia: http://en.wikipedia.org/wiki/Susan_Glaspell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32432#Fidelity--A-Novel
 gutenberg_issued: '2010-05-19'
 gutenberg_type: Text
 identifiers:
